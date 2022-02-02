@@ -1,0 +1,5 @@
+
+
+// Double slashes mean comment
+
+Debug.Log("Hello"); THese print to the console 
