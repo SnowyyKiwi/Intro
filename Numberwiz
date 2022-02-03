@@ -7,4 +7,6 @@ Debug.Log("Hello"); THese print to the console
 integer variables are called int, then we name them starting with a lowercase letter
 ex: int myAgeIs
 
-
+input variable is called if(input.....
+ex if (input.GetKeyDown(""))......
+This makes it so when you press a specific key it appears on the console
