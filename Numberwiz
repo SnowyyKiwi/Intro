@@ -10,3 +10,12 @@ ex: int myAgeIs
 input variable is called if(input.....
 ex if (input.GetKeyDown(""))......
 This makes it so when you press a specific key it appears on the console
+
+Resets the min guess to whatever the current guess is
+            lowestGuess = guess
+            
+Calculates a new average for a guess
+            guess = (lowestGuess + maxGuess) / 2;
+            
+Presents the new guess to the user if wrong
+            Debug.Log("Worng? Ok, my mind says the new number is..." + guess);
